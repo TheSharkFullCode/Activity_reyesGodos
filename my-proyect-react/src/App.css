@@ -1,0 +1,11 @@
+.caja{
+  display: flex;
+  justify-content: space-around;
+  
+}
+.colorRojo{
+  color: red;
+}
+.colorVerde{
+  color: rgb(14, 193, 14);
+}
